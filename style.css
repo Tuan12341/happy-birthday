@@ -414,7 +414,7 @@ body{
 .container .cloud:first-child::before{
     position: absolute;
     content: 'Hãy ấn vào thư em nhé';
-    text-align: center;
+    text-align: 'Chúc mừng sinh nhật pé iu của anh! Thêm tuổi mới rồi ha vá nhanh, dù sao đi nữa anh mong là em sẽ luôn vui vẻ, đủ sức khỏe để làm những gì mà em thích. Anh sẽ luôn đồng hành cùng em moazz' center;
     font-family: 'Roboto', sans-serif;
     font-weight: 600;
     width: 60px;
